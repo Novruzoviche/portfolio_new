@@ -46,8 +46,8 @@ function Projects() {
               isBlog={false}
               title="Editor.io"
               description="This is a one page blog with all your new blog posts on one page. It also includes a link to your blogroll and a contact form."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              ghLink="#"
+              demoLink="#"              
             />
           </Col>
         </Row>
