@@ -22,7 +22,7 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
+              title="Responsive Personal Portfolio"
               description="Responsive Personal Portfolio Website Using HTML CSS And JavaScript | Dark/Light Mode"
               ghLink="https://github.com/Novruzoviche/my-portfol-o.git"
               demoLink="https://novportfolio.netlify.app/"
@@ -33,7 +33,7 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
+              title="Responsive One Page Website"
               description="Responsive One Page Website from scratch using HTML, CSS, and JavaScript"
               ghLink="https://github.com/Novruzoviche/gt.git"
               demoLink="https://gtvbdesign.netlify.app/"
@@ -44,8 +44,8 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="This is a one page blog with all your new blog posts on one page. It also includes a link to your blogroll and a contact form."
+              title="Most page blog"
+              description="This is a most page blog with all your new blog posts on one page. It also includes a link to your blogroll and a contact form."
               ghLink="#"
               demoLink="#"              
             />
