@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="#"
+                href="https://novblog.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
               >
